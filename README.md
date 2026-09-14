@@ -6,7 +6,7 @@ Sou uma profissional da área de Tecnologia em transição para **Dados**. Com s
 Atualmente, estou me especializando no ecossistema **AWS** e aprimorando meu **Inglês** para atuação em projetos globais.
 
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas (UNINASSAU).
-- 🚀 Trabalhando como auxiliar técnica de dados.
+- 🚀 Trabalhando como auxiliar técnica de dados(Engeman).
 - 🎯 Foco atual: Certificação **AWS Cloud Practitioner (CLF-C02)**.
 
 ---

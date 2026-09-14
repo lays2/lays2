@@ -1,12 +1,12 @@
 # Olá, eu sou a Lays Alves! 👋
 
 ### 👩‍💻 Sobre Mim
-Sou uma profissional da área de Tecnologia em transição para **Engenharia de Dados**. Com sólida experiência administrativa e logística, hoje foco em construir arquiteturas de dados eficientes, escaláveis e seguras. 
+Sou uma profissional da área de Tecnologia em transição para **Dados**. Com sólida experiência administrativa e logística, hoje foco em construir arquiteturas de dados eficientes, escaláveis e seguras. 
 
 Atualmente, estou me especializando no ecossistema **AWS** e aprimorando meu **Inglês** para atuação em projetos globais.
 
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas (UNINASSAU).
-- 🚀 Participante do programa **EY Empodera**.
+- 🚀 Trabalhando como auxiliar técnica de dados.
 - 🎯 Foco atual: Certificação **AWS Cloud Practitioner (CLF-C02)**.
 
 ---
@@ -22,7 +22,7 @@ Atualmente, estou me especializando no ecossistema **AWS** e aprimorando meu **I
 | **Ferramentas/Dev** | Git, Docker, Node.js |
 
 ### 📫 Vamos nos conectar?
-- **LinkedIn:**
+- **LinkedIn:*https://www.linkedin.com/in/lays-alves-151612205/*
 - **E-mail:** santoslays67@gmail.com
 
 ---
